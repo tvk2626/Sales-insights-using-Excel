@@ -18,5 +18,3 @@ Analyze historical sales performance data of a global retail store and present k
 * Category wise,the trend of sales is highly fluctuating,but "Furniture"category is constantly underperforming
 
 * The top products mostly comprise of items related to printing and binding
-
-## The file uploaded doesn't support one function(XLOOKUP) due to lack of compatibility.For that function this sheet can be accessed : https://1drv.ms/x/c/ccca91d172198de5/EZJqP9haE9hGoLF_VjpRkfkB0nzAqKshCyF3wP4iQkpJ9A?e=r8QNrR
